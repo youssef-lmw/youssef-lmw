@@ -1,5 +1,9 @@
 # 👋 Welcome to my GitHub profile!
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
 ## 💻 Tech Lead & Full Stack AI Developer
 
 Passionate about innovation at the intersection of web and artificial intelligence, I've been creating custom solutions for over 7 years.
