@@ -53,12 +53,23 @@ Open to collaboration opportunities on innovative projects. If you have an idea 
 
 ---
 
-### 🎨 Creative Contribution Visualization
+### 📊 Development Journey
 
 <div align="center">
-  <h4>Watch my contribution graph get eaten by the snake 🐍</h4>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-lmw&theme=radical" alt="GitHub Streak Stats"/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-lmw&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/youssef-lmw/youssef-lmw/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+### 🔥 Tech Stack Proficiency
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-lmw&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+### 🎨 Contribution Art
+
+<div align="center">
+  <h4>Watch my contribution graph come alive 🐍</h4>
+  <img src="https://raw.githubusercontent.com/youssef-lmw/youssef-lmw/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
