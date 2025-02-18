@@ -65,9 +65,12 @@ Open to collaboration opportunities on innovative projects. If you have an idea 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-lmw&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
-### 🎨 Contribution Art
+### 🎨 Contribution Art & Profile Views
 
 <div align="center">
   <h4>Watch my contribution graph come alive 🐍</h4>
   <img src="https://raw.githubusercontent.com/youssef-lmw/youssef-lmw/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
+  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=youssef-lmw&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
