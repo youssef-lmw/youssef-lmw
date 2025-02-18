@@ -53,11 +53,9 @@ Open to collaboration opportunities on innovative projects. If you have an idea 
 
 ---
 
-### 📊 Development Journey
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-lmw&theme=radical" alt="GitHub Streak Stats"/>
-  
   <img src="https://github-profile-trophy.vercel.app/?username=youssef-lmw&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
