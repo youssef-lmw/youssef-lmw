@@ -53,13 +53,11 @@ Open to collaboration opportunities on innovative projects. If you have an idea 
 
 ---
 
-### 📊 GitHub Stats
+### 🎨 Creative Contribution Visualization
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-lmw&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-### 🐍 Contribution Snake
+<div align="center">
+  <h4>Watch my contribution graph get eaten by the snake 🐍</h4>
+</div>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/youssef-lmw/youssef-lmw/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
