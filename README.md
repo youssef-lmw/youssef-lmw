@@ -72,5 +72,5 @@ Open to collaboration opportunities on innovative projects. If you have an idea 
   <img src="https://raw.githubusercontent.com/youssef-lmw/youssef-lmw/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
   
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=youssef-lmw&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=youssef-lmw&style=for-the-badge&color=blueviolet&base=989" alt="Profile Views"/>
 </div>
