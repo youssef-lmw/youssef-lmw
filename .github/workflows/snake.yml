@@ -2,23 +2,31 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */3 * * *" # every 3 hours
+    - cron: "0 0 * * *"  # runs at 00:00 UTC every day
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+    
     steps:
       - uses: actions/checkout@v2
+      
+      - name: Create dist directory
+        run: mkdir -p dist
 
-      - name: Generate Snake SVG
-        run: |
-          echo '<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -32 880 192" width="880" height="192"><desc>Generated with https://github.com/Platane/snk</desc><style>:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 77100ms linear infinite;width:12px;height:12px}</style><rect class="c" x="2" y="2" rx="2" ry="2"/></svg>' > dist/github-contribution-grid-snake.svg
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: youssef-lmw
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: ad-m/github-push-action@master
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          message: 'Generate Snake Animation'
-          add: 'dist/github-contribution-grid-snake.svg'
+          force: true
